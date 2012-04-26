@@ -8,5 +8,10 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/esaskum/apps/javamail-1.4.5/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="/home/esaskum/apps/javamail-1.4.5/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="/home/esaskum/apps/javamail-1.4.5/lib/imap.jar"/>
+	<classpathentry kind="lib" path="/home/esaskum/apps/javamail-1.4.5/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="/home/esaskum/apps/javamail-1.4.5/lib/mailapi.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

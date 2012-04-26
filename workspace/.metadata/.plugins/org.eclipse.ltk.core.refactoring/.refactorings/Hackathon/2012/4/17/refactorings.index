@@ -6,3 +6,8 @@
 1335438212829	Move 1 resources to 'WebContent'
 1335440948892	Move 1 resources to 'WebContent'
 1335441090160	Rename field 'email'
+1335446432179	Move compilation unit
+1335447133897	Delete element
+1335448276955	Extract superclass 'AbstractProvider'
+1335456382809	Extract local variable 'store'
+1335458678779	Move compilation units
