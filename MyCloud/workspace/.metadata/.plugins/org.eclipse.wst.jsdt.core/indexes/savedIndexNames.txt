@@ -1,5 +1,0 @@
-INDEX VERSION 1.122+/home/esaskum/apps/mycloud/MyCloud/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-2988331113.index
-401588738.index
-3659251758.index
-239032830.index

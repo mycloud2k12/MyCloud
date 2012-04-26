@@ -1,5 +1,0 @@
-INDEX VERSION 1.126
-/home/ekumkir/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1489531296.index
-/Hackathon/src
-/home/ekumkir/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1868137574.index
-/Hackathon/src
