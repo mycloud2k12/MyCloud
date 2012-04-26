@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+/home/ekumkir/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2508013341.index
+2988331113.index
+4194657069.index
+1489531296.index
+4164471617.index

@@ -1,0 +1,7 @@
+package com.ericsson.suf.mycloud.gui;
+
+import org.apache.struts.action.Action;
+
+public class LoginAction extends org.apache.struts.action.Action {
+
+}

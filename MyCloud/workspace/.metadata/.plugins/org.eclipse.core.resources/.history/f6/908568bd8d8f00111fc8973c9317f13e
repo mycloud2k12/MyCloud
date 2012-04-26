@@ -1,0 +1,16 @@
+package com.ericsson.suf.mycloud.gui.action;
+
+import org.apache.struts.action.Action;
+
+public class LoginAction extends Action {
+	
+	private final static String SUCCESS = "success";
+	
+	public ActionForward execute(ActionMapping mapping, ActionForm form,
+		    HttpServletRequest request, HttpServletResponse response)
+		    throws Exception {
+
+		    return mapping.findForward(SUCCESS);
+		}
+
+}
